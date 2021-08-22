@@ -1,0 +1,59 @@
+.details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #22262b;
+    padding-left: 30px;
+    width: 45%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.details p {
+    color: #bdbdbd;
+
+}
+
+h2{
+    color: #edeff3;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+.items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.firstitem p{
+    padding: 5px;
+}
+
+.seconditem p {
+    color: black;
+}
+
+.seconditem {
+    padding-left: 35px;
+}
+
+.seconditem a {
+    padding-right: 15px;
+    text-decoration: none;
+    color: rgb(27, 75, 207);
+    transition: transform .5s;
+}
+
+.seconditem a:hover{
+    transform: scale(1.1);
+    color: black;
+}
+
+
+
+

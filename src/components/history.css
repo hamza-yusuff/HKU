@@ -1,0 +1,14 @@
+.history {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color: #22262b;
+    padding-left: 30px;
+    width: 45%;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    color: whitesmoke;
+}
+

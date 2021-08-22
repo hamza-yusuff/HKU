@@ -1,0 +1,22 @@
+.bar{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.bar2{
+    display: flex;
+}
+
+.bar_button{
+    border: none;
+    padding: 10px 20px;
+    background-color: white;
+    font-weight: 600;
+    transition: transform .5s;
+}
+
+.bar_button:hover{
+    border-bottom: 2px solid blue;
+    color: blue;
+}
